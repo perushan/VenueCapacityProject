@@ -1,0 +1,13 @@
+Z:\VisualStudioApps\VenueCapacityCalculator\VenueCapacityCalculator\bin\Debug\netcoreapp3.1\VenueCapacityCalculator.exe
+Z:\VisualStudioApps\VenueCapacityCalculator\VenueCapacityCalculator\bin\Debug\netcoreapp3.1\VenueCapacityCalculator.deps.json
+Z:\VisualStudioApps\VenueCapacityCalculator\VenueCapacityCalculator\bin\Debug\netcoreapp3.1\VenueCapacityCalculator.runtimeconfig.json
+Z:\VisualStudioApps\VenueCapacityCalculator\VenueCapacityCalculator\bin\Debug\netcoreapp3.1\VenueCapacityCalculator.runtimeconfig.dev.json
+Z:\VisualStudioApps\VenueCapacityCalculator\VenueCapacityCalculator\bin\Debug\netcoreapp3.1\VenueCapacityCalculator.dll
+Z:\VisualStudioApps\VenueCapacityCalculator\VenueCapacityCalculator\bin\Debug\netcoreapp3.1\VenueCapacityCalculator.pdb
+Z:\VisualStudioApps\VenueCapacityCalculator\VenueCapacityCalculator\obj\Debug\netcoreapp3.1\VenueCapacityCalculator.csprojAssemblyReference.cache
+Z:\VisualStudioApps\VenueCapacityCalculator\VenueCapacityCalculator\obj\Debug\netcoreapp3.1\VenueCapacityCalculator.AssemblyInfoInputs.cache
+Z:\VisualStudioApps\VenueCapacityCalculator\VenueCapacityCalculator\obj\Debug\netcoreapp3.1\VenueCapacityCalculator.AssemblyInfo.cs
+Z:\VisualStudioApps\VenueCapacityCalculator\VenueCapacityCalculator\obj\Debug\netcoreapp3.1\VenueCapacityCalculator.csproj.CoreCompileInputs.cache
+Z:\VisualStudioApps\VenueCapacityCalculator\VenueCapacityCalculator\obj\Debug\netcoreapp3.1\VenueCapacityCalculator.dll
+Z:\VisualStudioApps\VenueCapacityCalculator\VenueCapacityCalculator\obj\Debug\netcoreapp3.1\VenueCapacityCalculator.pdb
+Z:\VisualStudioApps\VenueCapacityCalculator\VenueCapacityCalculator\obj\Debug\netcoreapp3.1\VenueCapacityCalculator.genruntimeconfig.cache
